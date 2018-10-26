@@ -4,6 +4,7 @@ Modify this file to your hearts content and make your website look awesome!*/
 
 
 body{
+	background-image:url(leaves.png);
 	background-color: #EAF4F5;
 	padding-top: 80px;
 }
